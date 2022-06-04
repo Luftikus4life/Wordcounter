@@ -1,0 +1,34 @@
+.header {
+  background-image: url("images/header.jpg");
+
+  background-size: cover;
+  background-position: 0px -120px;
+  text-align: center;
+}
+.center {
+  text-align: center;
+}
+#overlay {
+  background-color: rgba(0, 0, 0, 0.507);
+  padding: 100px 50px;
+  color: rgb(255, 253, 253);
+}
+
+.panel {
+  box-shadow: inset 10px 10px 20px 1px rgba(0, 0, 0, 0.2),
+    2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  text-align: center;
+  padding: 8px;
+  width: 120px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.panel-number {
+  font-weight: bolder;
+}
+
+.form-control {
+  background-color: #fffbd9;
+}
