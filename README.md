@@ -1,3 +1,3 @@
-# word counter
-You enter text and the website counts the letters, words and paragraphs in the entered text
-site is published at https://luftikus4life.github.io/Wordcounter/
+# Wordcounter Website
+# In the inserted text, the letters, paragraphs and words are counted and output as numbers
+# Site is published at: https://luftikus4life.github.io/Wordcounter/
